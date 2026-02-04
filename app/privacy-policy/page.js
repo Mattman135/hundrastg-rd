@@ -61,7 +61,7 @@ const PrivacyPolicy = () => {
           Senast uppdaterad: 10 januari 2026
           <h2 className="font-bold">Inledning</h2>
           Välkommen till Hundrastgårdar i Sverige. Vi värnar om din integritet
-          och är engagerade i att skydda dina personuppgifter.
+          och vi är engagerade i att skydda dina personuppgifter.
           <h2 className="font-bold">Insamling av uppgifter</h2>
           Vår webbplats samlar in icke-personlig data genom webbkakor (cookies).
           Denna information används för att förbättra användarupplevelsen på vår
